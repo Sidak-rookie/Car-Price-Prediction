@@ -42,16 +42,9 @@ This project analyzes and visualizes car price data to identify patterns and ins
 
 ```
 Car-Price-Prediction/
-│── 📁 data/
-│   ├── 📄 output.csv                 # Dataset used for analysis
-│── 📁 src/
-│   ├── 📝 main.py                     # Main script for data analysis
-│── 📁 notebooks/
-│   ├── 📒 EDA.ipynb                    # Jupyter Notebook for Exploratory Data Analysis
-│── 📁 reports/
-│   ├── 📑 analysis.pdf                 # Report summarizing findings (if needed)
-│── 📁 docs/
-│   ├── 📜 README.md                    # Project documentation
+├── 📄 output.csv                        # Dataset used for analysis
+├── 📝 main.py                           # Main script for data analysis
+├── 📜 README.md                         # Project documentation
 │── 🛑 .gitignore                        # Ignore unnecessary files (e.g., __pycache__, .DS_Store)
 │── 📜 requirements.txt                  # Dependencies
 │── 📜 LICENSE                           # License information
